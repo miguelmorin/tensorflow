@@ -26,7 +26,7 @@ import tempfile
 
 # go/tf-wildcard-import
 # pylint: disable=wildcard-import
-from unittest import *
+#from unittest import *
 # pylint: enable=wildcard-import
 
 from tensorflow.python.framework import errors
